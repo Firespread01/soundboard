@@ -36,6 +36,13 @@ button:hover {
 .rightside {
   text-align: right;
 }
+
+.funnybutton {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+}
+
 body {
   font-family: 'Mooli', sans-serif;
 }
