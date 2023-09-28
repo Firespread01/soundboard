@@ -36,3 +36,6 @@ button:hover {
 .rightside {
   text-align: right;
 }
+body {
+  font-family: 'Mooli', sans-serif;
+}
