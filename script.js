@@ -13,6 +13,8 @@ function funny() {
     playAudio('Sounds/oh-my-god-vine.mp3');
     playAudio('Sounds/taco-bell-bong.mp3');
     playAudio('Sounds/baby-laughing-meme.mp3');
-    playAudio('Sounds/clashroyalehehe.mp3')
+    playAudio('Sounds/clashroyalehehe.mp3');
+    playAudio('Sounds/wompwompwomp.mp3');
+    playAudio('Sounds/old-car-horn.mp3');
     }
 }
