@@ -18,10 +18,3 @@ function funny() {
     playAudio('Sounds/old-car-horn.mp3');
     }
 }
-
-function loader() {
-  setTimeout(
-    function(){
-  document.querySelector('.loader').style.display='none';
-    }, 500);
-}
