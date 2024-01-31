@@ -16,5 +16,6 @@ function funny() {
     playAudio('Sounds/clashroyalehehe.mp3');
     playAudio('Sounds/wompwompwomp.mp3');
     playAudio('Sounds/old-car-horn.mp3');
+    playAudio('Sounds/Whistle.mp3');
     }
 }
